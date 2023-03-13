@@ -152,6 +152,10 @@ p{
     height: 80px;
     border-top: solid white 1px;
 }
+.footer1:hover {
+        color: blue;
+        color: white;
+     }
 .liens{
     margin: 10px;
 }
